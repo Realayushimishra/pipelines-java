@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/HelloVipin/Static_website_deploy_using_blob/_apis/build/status/Realayushimishra.pipelines-java?branchName=main)](https://dev.azure.com/HelloVipin/Static_website_deploy_using_blob/_build/latest?definitionId=37&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
